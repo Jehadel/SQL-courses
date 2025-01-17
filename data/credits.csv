@@ -1,0 +1,6 @@
+Id;Movie_id;Direction;Producer;Studio;Playscreen;Cast;Country
+1;3;"Big director";"Big producer";"Big studio";"Big screenwriter";"Big Actor 1, Big Actor 2, Other big actors";"Big country"
+2;1;"Unknown director";"Unknown producteur";"Unknown studio";"Unknown screenwriter";"Unknown actor 1, Unknown acteur 2, Other unknown actors";"Unknown country"
+3;2;"Small director";"Small producer";"Small studio";"Small screenwriter";"Small actor 1, Small actor 2, Small other actors";"Small country"
+4;5;"Acceptable director";"Acceptable producer";"Acceptable studio";"Acceptable screenwriter";"Acceptable actor 1, Acceptable actor 2, Other acceptable actors";"Acceptable country"
+5;4;"Incompetent director";"Incompetent producer";"Incompetent studio"; "Incompetent screenwriter";"Incompetente actor 1, Incompetent actor 2, Other incompetent actors";"Incompetent country"
