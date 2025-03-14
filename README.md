@@ -48,7 +48,7 @@ Two parts :
 - a short introduction to the [SQLAlchemy library](https://www.sqlalchemy.org/) : connect to a database, models
 - NoSQL basics : definition, overview and some examples with [unqlite](https://unqlite-python.readthedocs.io/en/latest/index.html) (basic operations, cursors, transactions)
 
-  ## Graded homework
+## Graded homework
 
-  - [notebook (statements)](DM-SQL-questions.ipynb)
-  - [data](data/DM-SQL)
+- [notebook (statements)](DM-SQL-questions.ipynb)
+- [data](data/DM-SQL)
